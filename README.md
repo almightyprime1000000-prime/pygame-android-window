@@ -98,7 +98,7 @@ You only need to change this one line. Nothing else needs to change in
 Open your `buildozer.spec` file. Add or check these lines:
 
 ```ini
-requirements = python3==3.10.12,hostpython3==3.10.12,pygame,jnius,android
+requirements = python3==3.10.12,hostpython3==3.10.12,pygame,pyjnius
 
 orientation = landscape
 fullscreen = 1
