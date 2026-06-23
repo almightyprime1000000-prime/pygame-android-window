@@ -1,4 +1,5 @@
-## window
+## Pygame Android Window
+### Fullscreen + orientation lock + fast rendering for Pygame on Android
 
 This is a small helper file for Pygame games on Android.
 
