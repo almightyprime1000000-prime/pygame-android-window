@@ -336,11 +336,11 @@ if event.type == pygame.VIDEORESIZE:
   always get the newest version.
 
 
-About this implementation
+## About this implementation
 
 Built by Wonder Kofi Junior (AlmightyPrime), a solo developer from Ghana. Two years of learning, failing, and finishing. 
 
-Support The Project
+## Support The Project
 
 If this repository helped you integrate fullscreen display into your Pygame Android game, or if you'd like to try a fully integrated production example on Google Play, please consider:
 
